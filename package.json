@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://soyeon0116.github.io/mobile_test",
+  "homepage":"https://soyeon0116.github.io/mobile_test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
